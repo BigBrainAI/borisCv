@@ -1,0 +1,40 @@
+body {
+  background-color: white;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 10px;
+  border-color: #442727;
+  margin: 3em auto;
+}
+
+h3, h2, h1, strong {
+  color: #937d14
+}
+
+div {
+  background-color: #eae7d9;
+  padding: 2em;
+}
+
+/*
+img {
+  background-color: #670000;
+}
+*/
+.boris {
+  background-color: #670000;
+}
+
+.logo {
+  background-color: transparent;
+  width: 70px;
+  position: relative;
+  top: 10px;
+  left: 13px;
+  float: left;
+}
