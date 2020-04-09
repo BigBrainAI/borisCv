@@ -12,8 +12,11 @@ hr {
   margin: 3em auto;
 }
 
-h3, h2, h1, strong {
-  color: #937d14
+h3,
+h2,
+h1,
+strong {
+  color: #937d14;
 }
 
 div {
@@ -21,15 +24,13 @@ div {
   padding: 2em;
 }
 
-/*
-img {
-  background-color: #670000;
-}
-*/
 .boris {
   background-color: #670000;
 }
 
+.boris:hover {
+  background-color: transparent;
+}
 .logo {
   background-color: transparent;
   width: 70px;
